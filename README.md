@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository
+# My name is Ethan Wink.
+This is my first repository.
